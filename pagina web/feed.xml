@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+        <channel>
+       <title>Zona Deportiva</title>   
+            <link>https://Zona-Deportiva.surge.sh/Index.html</link>   
+        <description>Zona Deportiva, es un ifnormativo de noticias del mundo del fútbol, más enfocado al contenido de la liga española</description>   
+        <item>
+        <title>Exclusiva</title>
+            <link>https://Zona-Deportiva.surge.sh/articulos.html</link>
+            <description>El fútbol español siempre ha estado marcado por grandes rivalidades, y sin duda una de las más apasionantes es el Clásico entre el Real Madrid y el FC Barcelona. Este partido no es solo un enfrentamiento deportivo, sino también una batalla cultural que enfrenta a dos de los clubes más grandes del mundo. El último encuentro entre estos dos gigantes del fútbol dejó a los aficionados al borde de la emoción.</description>
+        </item>     
+    </channel>    
+</rss>
